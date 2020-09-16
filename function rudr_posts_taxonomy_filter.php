@@ -1,4 +1,5 @@
 //place in functions.php of wordpress
+//Please note this code is obatined from: https://rudrastyh.com/wordpress/filter-posts-by-terms.html
 
 function rudr_posts_taxonomy_filter() {
 	global $typenow; // this variable stores the current custom post type
